@@ -12,6 +12,7 @@ struct ContentView: View {
     var body: some View {
         Text("Hello, World!")
     }
+    var i = 0
 }
 
 struct ContentView_Previews: PreviewProvider {
